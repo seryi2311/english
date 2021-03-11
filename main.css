@@ -1,0 +1,12 @@
+.container {
+    text-align: center;
+}
+.grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    font-size: 28px;
+}
+
+#english{
+    font-size: 48px;
+}
